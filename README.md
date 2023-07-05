@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm JULIAN
+
+## About Me
+I'm an SP MAD student studying UI/UX. I'm interested in Psychology and Automation Research :)
+This GitHub account will be used only for my automation science research. 
 
 <!--
 **Totodile-Julian/Totodile-Julian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
